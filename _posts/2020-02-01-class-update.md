@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Class Update"
 ---
@@ -11,4 +11,4 @@ Fusce a hendrerit velit. Duis ultricies purus a eleifend posuere. Nulla non mass
 
 Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
 
-Vivamus ut varius enim, ac iaculis velit. Vestibulum lectus mauris, efficitur quis cursus mollis, ullamcorper vitae massa. Mauris feugiat ultricies nisi, et tempus mauris placerat tempor. Pellentesque maximus lacus ante. Phasellus laoreet leo ac egestas vulputate. Duis iaculis sapien in nunc imperdiet consectetur. Duis et dui lacinia, fermentum arcu sed, interdum diam. Proin id tempus magna. Aliquam elementum venenatis risus id condimentum. Maecenas augue turpis, imperdiet eget mauris eget, aliquam euismod ipsum. Nullam in faucibus justo. Donec sed nibh volutpat, vulputate diam a, finibus quam.
+Vivamus ut varius enim, ac iaculis velit. Vestibulum lectus mauris, efficitur quis cursus mollis, ullamcorper vitae massa. Mauris feugiat ultricies nisi, et tempus mauris placerat tempor. Pellentesque maximus lacus ante. Phasellus laoreet leo ac egestas vulputate. Duis iaculis sapien in nunc imperdiet consectetur. Duis et dui lacinia, fermentum arcu sed, interdum diam. Proin id tempus magna. Aliquam elementum venenatis risus id condimentum. Maecenas augue turpis, imperdiet eget mauris eget, aliquam euismod ipsum. Nullam in faucibus justo. Donec sed nibh volutpat, vulputate diam a, finibus quam. -->
