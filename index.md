@@ -3,6 +3,10 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+My aim as an independent researcher is to develop smart wearable electronics, systems and predictive AI that deliver digital health and medicine solutions to improve the quality of life for aging and various patient populations through translational research.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My expertise include: 
+- Wearable electronics/systems design and prototype
+- Biomedical signal processing and sensor data analysis
+- Predictive AI algorithm development
+- Human-in-the-loop real-time wearable computation
