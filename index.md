@@ -11,13 +11,3 @@ I obtained my Bacheler's degree in Instrumental Science at Beihang University (B
 After exploring and learning from all my experiences, I want to be a professor. I enjoy working with students and helping them with my ability and experiences, expecially sharing any mistakes I made to help students avoid similar ones. 
 
 I am currently a Postoctoral Research Fellow at SRALab and I am applying to faculty positions, with the goal of starting as an assistant professor in Fall 2025. 
-
-My aim as an independent researcher is to develop smart wearable electronics, systems and predictive AI that deliver digital health and medicine solutions to improve the quality of life for aging and various patient populations through translational research.
-
-My expertise: 
-- Wearable electronics/systems design and prototype
-- Biomedical signal processing and sensor data analysis
-- Predictive AI algorithm development
-- Human-in-the-loop real-time wearable computation
-
-Please reach out if you are interested in my research and future collaborations. 
